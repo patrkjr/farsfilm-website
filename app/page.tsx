@@ -18,7 +18,7 @@ export default function Home() {
   return (
     <div className="prose dark:prose-invert">
       <h1 className="mb-2 py-6">farsfilm</h1>
-      <p><strong>farsfilm</strong> giver dig filmanbefalinger fra <i>næsten normal</i> far.</p>
+      <p><strong>farsfilm</strong> giver dig filmanbefalinger fra en <i>næsten normal</i> far.</p>
       <br/>
       <p><strong>farsfilm</strong> er udivklet af <strong><i>Patrick Kjær</i></strong>. Du kan kontakte mig på <a href="mailto:p.kjr@icloud.com">p.kjr@icloud.com</a></p>
     </div>
